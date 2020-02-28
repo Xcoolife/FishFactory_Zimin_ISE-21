@@ -1,0 +1,11 @@
+C:\Users\zimin\source\repos\FishFactoryListImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.deps.json
+C:\Users\zimin\source\repos\FishFactoryListImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.dll
+C:\Users\zimin\source\repos\FishFactoryListImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.pdb
+C:\Users\zimin\source\repos\FishFactoryListImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.dll
+C:\Users\zimin\source\repos\FishFactoryListImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.pdb
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.csprojAssemblyReference.cache
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.AssemblyInfoInputs.cache
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.AssemblyInfo.cs
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.csproj.CopyComplete
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.dll
+C:\Users\zimin\source\repos\FishFactoryListImplement\obj\Debug\netstandard2.0\FishFactoryListImplement.pdb
