@@ -2,12 +2,10 @@ C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactory
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryView.exe
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryView.pdb
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryBusinessLogic.dll
-C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryListImplement.dll
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\Unity.Abstractions.dll
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\Unity.Container.dll
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryBusinessLogic.pdb
-C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryListImplement.pdb
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\Unity.Abstractions.pdb
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\Unity.Container.pdb
@@ -24,3 +22,5 @@ C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactory
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\obj\Debug\FishFactoryView.exe
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\obj\Debug\FishFactoryView.pdb
 C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\obj\Debug\FishFactoryView.FormCanneds.resources
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryFileImplement.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryView\bin\Debug\FishFactoryFileImplement.pdb
