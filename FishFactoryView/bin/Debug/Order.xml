@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order Id="1">
+    <CannedId>1</CannedId>
+    <Count>12</Count>
+    <Sum>38664</Sum>
+    <Status>Оплачен</Status>
+    <DateCreate>2020-03-13T01:07:55.7999895+04:00</DateCreate>
+    <DateImplement>2020-03-13T01:08:02.3408325+04:00</DateImplement>
+  </Order>
+</Orders>

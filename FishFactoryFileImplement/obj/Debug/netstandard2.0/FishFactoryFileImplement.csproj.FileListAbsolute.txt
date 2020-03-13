@@ -1,0 +1,13 @@
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryFileImplement.deps.json
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryFileImplement.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryFileImplement.pdb
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.pdb
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.pdb
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.csprojAssemblyReference.cache
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.AssemblyInfoInputs.cache
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.AssemblyInfo.cs
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.csproj.CopyComplete
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryFileImplement\obj\Debug\netstandard2.0\FishFactoryFileImplement.pdb

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FishFactoryBusinessLogic",
-    "\\FishFactoryListImplement",
+    "\\.gitignore",
+    "\\FishFactoryFileImplement",
+    "\\FishFactoryFileImplement\\bin",
+    "\\FishFactoryFileImplement\\Implements",
     "\\FishFactoryView"
   ],
   "SelectedNode": "\\FishFactoryView\\Program.cs",
