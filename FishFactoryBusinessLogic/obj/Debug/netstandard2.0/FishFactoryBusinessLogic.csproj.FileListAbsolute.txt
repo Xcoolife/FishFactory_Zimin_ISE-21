@@ -1,0 +1,8 @@
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.deps.json
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.pdb
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\obj\Debug\netstandard2.0\FishFactoryBusinessLogic.csprojAssemblyReference.cache
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\obj\Debug\netstandard2.0\FishFactoryBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\obj\Debug\netstandard2.0\FishFactoryBusinessLogic.AssemblyInfo.cs
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\obj\Debug\netstandard2.0\FishFactoryBusinessLogic.dll
+C:\Users\zimin\Source\Repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryBusinessLogic\obj\Debug\netstandard2.0\FishFactoryBusinessLogic.pdb
