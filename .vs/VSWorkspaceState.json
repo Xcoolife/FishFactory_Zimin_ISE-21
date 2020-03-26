@@ -3,10 +3,8 @@
     "",
     "\\.gitignore",
     "\\FishFactoryFileImplement",
-    "\\FishFactoryFileImplement\\bin",
-    "\\FishFactoryFileImplement\\Implements",
-    "\\FishFactoryView"
+    "\\FishFactoryFileImplement\\bin"
   ],
-  "SelectedNode": "\\FishFactoryView\\Program.cs",
+  "SelectedNode": "\\.gitignore\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
