@@ -15,5 +15,6 @@ namespace FishFactoryDatabaseImplement.Models
         public decimal Price { get; set; }
         [ForeignKey("CannedId")]
         public virtual List<CannedComponent> CannedComponents { get; set; }
+        public virtual List<Order> Orders { get; set; }
     }
 }
