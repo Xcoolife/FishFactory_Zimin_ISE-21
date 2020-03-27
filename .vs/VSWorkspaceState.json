@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.gitignore",
-    "\\FishFactoryFileImplement",
-    "\\FishFactoryFileImplement\\bin",
-    "\\FishFactoryFileImplement\\Implements",
-    "\\FishFactoryView"
+    "\\.gitignore"
   ],
-  "SelectedNode": "\\FishFactoryView\\Program.cs",
+  "SelectedNode": "\\.gitignore\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryDatabaseImplement.deps.json
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryDatabaseImplement.dll
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.AssemblyInfoInputs.cache
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.AssemblyInfo.cs
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.dll
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryFileImplement.dll
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.dll
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryFileImplement.pdb
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryBusinessLogic.pdb
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryListImplement.pdb
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.csprojAssemblyReference.cache
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.csproj.CopyComplete
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\bin\Debug\netstandard2.0\FishFactoryDatabaseImplement.pdb
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.dll
+C:\Users\zimin\source\repos\FishFactory\FishFactory_Zimin_ISE-21.git\FishFactoryDatabaseImplement\obj\Debug\netstandard2.0\FishFactoryDatabaseImplement.pdb

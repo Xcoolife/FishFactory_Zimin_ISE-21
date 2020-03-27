@@ -1,8 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CannedComponents>
-  <CannedComponents Id="1">
-    <CannedId>1</CannedId>
-    <ComponentId>1</ComponentId>
-    <Count>3213</Count>
-  </CannedComponents>
-</CannedComponents>
+<CannedComponents />
